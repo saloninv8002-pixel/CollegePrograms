@@ -49,9 +49,9 @@ class Triangle:public shape{
 };
 
 int main(){
-	Circle c(6);
-	Rectangle r(2,4);
-	Triangle t(8,5);
+	Circle c(5);
+	Rectangle r(6,3);
+	Triangle t(10,4);
 	
 	shape *s;
 	s=&c;
