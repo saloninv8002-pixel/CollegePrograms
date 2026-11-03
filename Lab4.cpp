@@ -68,7 +68,7 @@ public:
 
 int main()
 {
-    const int N = 10000;
+    const int N = 1000;
 
     // Custom Stack Benchmark
     auto start = high_resolution_clock::now();
